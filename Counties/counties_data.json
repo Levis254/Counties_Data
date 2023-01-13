@@ -1,0 +1,2150 @@
+{
+   "BARINGO": {
+      "Baringo Central Sub County": [
+         "Sacho Ward",
+         "Kabarnet Ward",
+         "Tenges Ward",
+         "Ewalel/chapchap Ward",
+         "Kapropita Ward"
+      ],
+      "Baringo North Sub County": [
+         "Barwessa Ward",
+         "Kabartonjo Ward",
+         "Saimoi/kipsaraman Ward",
+         "Saimo/soi Ward",
+         "Bartabwa Ward"
+      ],
+      "Koibatek Sub County": [
+         "Lembus Ward",
+         "Lembus kwen Ward",
+         "Ravine Ward",
+         "Mumberes/Maji Mazuri Ward",
+         "Lembus/Perkerra Ward",
+         "Koibatek Ward"
+      ],
+      "Marigat Sub County": [
+         "Mukutani Ward",
+         "Marigat Ward",
+         "Iichamus Ward",
+         "Mochongoi Ward"
+      ],
+      "Mogotio Sub County": [
+         "Mogotio Ward",
+         "Emining Ward",
+         "Kisanana Ward"
+      ],
+      "Tiaty Sub County": [
+         "Tirioko Ward",
+         "Kolowa Ward",
+         "Ribkwo Ward",
+         "Silale Ward",
+         "Loiyamorok Ward",
+         "Tangulbei/korossi Ward",
+         "Churo/amaya Ward"
+      ]
+   },
+   "Bomet": {
+      "Bomet Central Sub County": [
+         "Silibwet Township Ward",
+         "Ndaraweta Ward",
+         "Singorwet Ward",
+         "Chesoen Ward",
+         "Mutarakwa  Ward"
+      ],
+      "Bomet East Sub County": [
+         "Merigi Ward",
+         "Kembu Ward",
+         "Longisa Ward",
+         "Kipreres  Ward",
+         "Chemaner Ward"
+      ],
+      "Chepalungu Sub County": [
+         "Kong'asis Ward",
+         "Nyangores Ward",
+         "Sigor Ward",
+         "Chebunyo Ward",
+         "Siongiroi Ward"
+      ],
+      "Konoin Sub County": [
+         "Kimulot Ward",
+         "Mogogosiek Ward",
+         "Boito Ward",
+         "Embomos Ward",
+         "Chepchabas Ward"
+      ],
+      "Sotik Sub County": [
+         "Ndanai/abosi Ward",
+         "Chemagel Ward",
+         "Kipsonoi Ward",
+         "Kapletundo Ward",
+         "Rongena/manaret Ward"
+      ]
+   },
+   "Bungoma": {
+      "Bumula Sub County": [
+         "Kabula  Ward",
+         "Kimaeti Ward",
+         "Siboti Ward",
+         "South Bukusu Ward",
+         "Bumula Ward",
+         "Khasoko Ward",
+         "West Bukusu Ward"
+      ],
+      "Cheptais Sub County": [
+         "Cheptais Ward",
+         "Kakateny Ward",
+         "Chesikaki Ward",
+         "Chepyuk Ward"
+      ],
+      "Kabuchai Sub County": [
+         "West Nalondo Ward",
+         "Mukuyuni Ward",
+         "Kabuchai/chwele Ward",
+         "Bwake/luuya Ward"
+      ],
+      "Kanduyi Sub County": [
+         "Bukembe West Ward",
+         "Bukembe East Ward",
+         "Township Ward",
+         "Khalaba Ward",
+         "Musikoma Ward",
+         "East Sang'alo Ward",
+         "Marakaru/tuuti Ward",
+         "West Sang'alo Ward"
+      ],
+      "Kimilili Sub County": [
+         "Kibingei Ward",
+         "Kimilili Ward",
+         "Maeni Ward",
+         "Kamukuywa Ward"
+      ],
+      "Mt Elgon Sub County": [
+         "Kaptama Ward",
+         "Elgon Ward"
+      ],
+      "Sirisia Sub County": [
+         "Malakisi/south Kulisiru Ward",
+         "Lwandanyi Ward",
+         "Namwela Ward"
+      ],
+      "Tongaren Sub County": [
+         "Mbakalo Ward",
+         "Naitiri/kabuyefwe Ward",
+         "Milima Ward",
+         "Ndalu/ Tabani Ward",
+         "Tongaren Ward",
+         "Soysambu/ Mitua Ward"
+      ],
+      "Webuye  East Sub County": [
+         "Mihuu Ward",
+         "Ndivisi Ward",
+         "Maraka Ward"
+      ],
+      "Webuye West Sub County": [
+         "Bokoli Ward",
+         "Misikhu Ward",
+         "Sitikho Ward",
+         "Matulo Ward"
+      ]
+   },
+   "Busia": {
+      "Bunyala Sub County": [
+         "Bunyala Central Ward",
+         "Bunyala North Ward",
+         "Bunyala West Ward",
+         "Bunyala South Ward"
+      ],
+      "Butula Sub County": [
+         "Marachi West Ward",
+         "Marachi East Ward",
+         "Marachi North Ward",
+         "Elugulu Ward",
+         "Kingandole Ward",
+         "Marachi Central Ward"
+      ],
+      "Matayos Sub County": [
+         "Bukhayo West Ward",
+         "Matayos South Ward",
+         "Busibwabo Ward",
+         "Burumba Ward",
+         "Mayenje Ward"
+      ],
+      "Nambale Sub County": [
+         "Nambale Township Ward",
+         "Bukhayo North Walatsi Ward",
+         "Bukhayo East Ward",
+         "Bukhayo Central Ward"
+      ],
+      "Samia Sub County": [
+         "Namboboto Nambuku Ward",
+         "Nangina Ward",
+         "Ageng'a Nanguba Ward",
+         "Bwiri Ward"
+      ],
+      "Teso North Sub County": [
+         "Malaba Central Ward",
+         "Malaba North Ward",
+         "Ang'urai South Ward",
+         "Ang'urai North Ward",
+         "Ang'urai East Ward",
+         "Malaba South Ward"
+      ],
+      "Teso South Sub County": [
+         "Ang'orom Ward",
+         "Chakol South Ward",
+         "Chakol North Ward",
+         "Amukura West Ward",
+         "Amukura East Ward",
+         "Amukura Central Ward"
+      ]
+   },
+   "ELGEYO-MARAKWET": {
+      "Keiyo North Sub County": [
+         "Kamariny Ward",
+         "Emsoo Ward",
+         "Tambach Ward",
+         "Kapchemutwa Ward"
+      ],
+      "Keiyo South Sub County": [
+         "Soy North Ward",
+         "Soy South Ward",
+         "Kabiemit Ward",
+         "Kaptarakwa Ward",
+         "Chepkorio Ward",
+         "Metkei Ward"
+      ],
+      "Marakwet East sub-county": [
+         "Kapyego Ward",
+         "Sambirir Ward",
+         "Endo Ward",
+         "Embobut/Embulot Ward"
+      ],
+      "Marakwet West Sub County": [
+         "Lelan Ward",
+         "Sengwer Ward",
+         "Cherangany  Ward",
+         "Moiben Kuserwo Ward",
+         "Kapsowar Ward",
+         "Arror Ward"
+      ]
+   },
+   "EMBU": {
+      "Manyatta  Sub County": [
+         "Ruguru-Ngandori Ward",
+         "Kithimu Ward",
+         "Nginda Ward",
+         "Mbeti north Ward",
+         "Kirimari Ward",
+         "Gaturi south Ward",
+         "Gaturi north Ward"
+      ],
+      "Mbeere North  Sub County": [
+         "Muminji Ward",
+         "Evurore Ward",
+         "Nthawa Ward"
+      ],
+      "Mbeere South  Sub County": [
+         "Mwea Ward",
+         "Makima Ward",
+         "Mbeti south Ward",
+         "Mavuria Ward",
+         "Kiambere Ward"
+      ],
+      "Runyenjes  Sub County": [
+         "Kaagari South Ward",
+         "Central ward",
+         "Kaagari North Ward",
+         "Kyeni north Ward",
+         "Kyeni south Ward"
+      ]
+   },
+   "GARISSA": {
+      "Balambala Sub County": [
+         "Balambala Ward",
+         "Danyere Ward",
+         "Jarajara Ward",
+         "Saka Ward"
+      ],
+      "Dadaab Sub County": [
+         "Dertu Ward",
+         "Dadaab Ward",
+         "LABISGALE Ward",
+         "Damajale Ward",
+         "Liboi Ward",
+         "Abakaile Ward"
+      ],
+      "Fafi Sub County": [
+         "Nanighi Ward",
+         "Jarajila Ward",
+         "Fafi Ward",
+         "Bura Ward",
+         "Dekaharia Ward"
+      ],
+      "Garissa Sub County": [
+         "Township Ward",
+         "Waberi Ward",
+         "Sankuri Ward",
+         "Iftin Ward",
+         "Galbet Ward"
+      ],
+      "Hulugho Sub County": [
+         "Hulugho Ward",
+         "Sangailu Ward"
+      ],
+      "Ijara Sub County": [
+         "Masalani Ward",
+         "Ijara Ward"
+      ],
+      "Lagdera Sub County": [
+         "Modogashe Ward",
+         "Benane Ward",
+         "Goreale Ward",
+         "Maalimin Ward",
+         "Sabena Ward",
+         "Baraki Ward"
+      ]
+   },
+   "Homa Bay": {
+      "Homa Bay Town Sub County": [
+         "Homa Bay Central Ward",
+         "Homa Bay Arujo Ward",
+         "Homa Bay East Ward",
+         "Homa Bay West Ward"
+      ],
+      "Kabondo Kasipul Sub County": [
+         "Kabondo East Ward",
+         "Kabondo West Ward",
+         "Kokwanyo/kakelo Ward",
+         "Kojwach Ward"
+      ],
+      "Karachuonyo Sub County": [
+         "West Karachuonyo Ward",
+         "North Karachuonyo Ward",
+         "Central Ward",
+         "Kanyaluo Ward",
+         "Kibiri Ward",
+         "Wang'chieng Ward",
+         "Kendu Bay Town Ward"
+      ],
+      "Kasipul Sub County": [
+         "West Kasipul Ward",
+         "South Kasipul Ward",
+         "Central Kasipul Ward",
+         "East Kamagak Ward",
+         "West Kamagak Ward"
+      ],
+      "Mbita Sub County": [
+         "Mfangano Island Ward",
+         "Rusinga Island Ward",
+         "Kasgunga Ward",
+         "Gembe Ward",
+         "Lambwe Ward"
+      ],
+      "Ndhiwa Sub County": [
+         "Kwabwai Ward",
+         "Kanyadoto Ward",
+         "Kanyikela Ward",
+         "Kabouch North Ward",
+         "Kabuoch South/pala Ward",
+         "Kanyamwa Kosewe Ward",
+         "Kanyamwa Kologi Ward"
+      ],
+      "Rangwe Sub County": [
+         "Kagan Ward",
+         "Kochia Ward",
+         "West Gem Ward",
+         "East Gem Ward"
+      ],
+      "Suba Sub County": [
+         "Gwassi South Ward",
+         "Gwassi North Ward",
+         "Kaksingiri West Ward",
+         "Ruma-kaksingiri East Ward"
+      ]
+   },
+   "ISIOLO": {
+      "Garbatulla Sub County": [
+         "GARBATULLA",
+         "KINNA",
+         "SERICHO"
+      ],
+      "Isiolo Sub County": [
+         "WABERA",
+         "BULA PESA",
+         "NGARE MARA",
+         "BURAT",
+         "OLDONYIRO"
+      ],
+      "Merti Sub County": [
+         "CHARI",
+         "CHERAB"
+      ]
+   },
+   "KAJIADO": {
+      "Kajiado Central Sub County": [
+         "Purko Ward",
+         "Ildamat Ward",
+         "Dalalekutuk Ward",
+         "Matapato north Ward",
+         "Matapato south Ward"
+      ],
+      "Kajiado East Sub County": [
+         "Kaputiei north Ward",
+         "Kitengela Ward",
+         "Oloosirkon/sholinke Ward",
+         "Kenyawa-poka Ward",
+         "Imaroro Ward"
+      ],
+      "Kajiado North Sub County": [
+         "Olkeri Ward",
+         "Ongata rongai Ward",
+         "Nkaimurunya Ward",
+         "Oloolua Ward",
+         "Ngong Ward"
+      ],
+      "Kajiado West Sub County": [
+         "Keekonyokie Ward",
+         "Iloodokilani Ward",
+         "Magadi Ward",
+         "Ewuaso oonkidong'i Ward",
+         "Mosiro Ward"
+      ],
+      "Loitokitok Sub County": [
+         "Kimana Ward",
+         "Entonet/lenkism Ward",
+         "Imbrikani/eselelnkei Ward",
+         "Kuku Ward",
+         "Rombo Ward"
+      ]
+   },
+   "KERICHO": {
+      "AINAMOI": [
+         "BELGUT"
+      ],
+      "Ainamoi Sub County": [
+         "Kapsoit Ward",
+         "Ainamoi Ward",
+         "Kapkugerwet Ward",
+         "Kipchebor Ward",
+         "Kipchimchim Ward",
+         "Kapsaos Ward"
+      ],
+      "Belgut Sub County": [
+         "Chaik Ward",
+         "Waldai Ward",
+         "Kabianga Ward",
+         "Cheptororiet/seretut Ward"
+      ],
+      "Bureti Sub County": [
+         "Kisiara Ward",
+         "Tebesonik Ward",
+         "Cheboin Ward",
+         "Chemosot Ward",
+         "Litein Ward",
+         "Cheplanget Ward",
+         "Kapkatet Ward"
+      ],
+      "Kipkelion East Sub County": [
+         "Kedowa/kimugul Ward",
+         "Chepseon Ward",
+         "Tendeno/sorget Ward",
+         "Londiani Ward"
+      ],
+      "Kipkelion West Sub County": [
+         "Chilchila Ward",
+         "Kunyak Ward",
+         "Kamasian Ward",
+         "Kipkelion Ward"
+      ],
+      "Sigowet/Soin Sub County": [
+         "Sigowet Ward",
+         "Kaplelartet Ward",
+         "Soliat Ward",
+         "Soin Ward"
+      ]
+   },
+   "KIRINYAGA": {
+      "Kirinyaga Central Sub County": [
+         "Mutira Ward",
+         "Kanyekini Ward",
+         "Kerugoya Ward",
+         "Inoi Ward"
+      ],
+      "Kirinyaga East Sub County": [
+         "Kabare Ward",
+         "Baragwi Ward",
+         "Njukiine Ward",
+         "Ngariama Ward",
+         "Karumandi Ward"
+      ],
+      "Kirinyaga North/Mwea West Sub County": [
+         "Mutithi Ward",
+         "Kangai Ward",
+         "Thiba Ward",
+         "Wamumu Ward"
+      ],
+      "Kirinyaga South Sub County": [
+         "Nyangati Ward",
+         "Murinduko Ward",
+         "Gathigiriri Ward",
+         "Tebere Ward"
+      ],
+      "Kirinyaga West Sub County": [
+         "Mukure Ward",
+         "Kiine Ward",
+         "Kariti Ward"
+      ]
+   },
+   "KITUI": {
+      "Kitui Central  Sub County": [
+         "Miambani Ward",
+         "Township Ward",
+         "Kyangwithya west Ward",
+         "Mulango Ward",
+         "Kyangwithya east Ward"
+      ],
+      "Kitui East Sub County": [
+         "Nzambani Ward",
+         "Zombe/mwitika Ward",
+         "Voo/kyamatu Ward",
+         "Endau/malalani Ward",
+         "Mutitu/kaliku Ward",
+         "Chuluni Ward"
+      ],
+      "Kitui Rural Sub County": [
+         "Kwavonza/yatta Ward",
+         "Kanyangi Ward",
+         "Mbitini Ward",
+         "Kisasi Ward"
+      ],
+      "Kitui South Sub County": [
+         "Ikutha Ward",
+         "Athi Ward",
+         "Ikanga/kyatune Ward",
+         "Mutomo Ward",
+         "Mutha Ward",
+         "Kanziko Ward"
+      ],
+      "Kitui West  Sub County": [
+         "Mutongoni Ward",
+         "Kauwi Ward",
+         "Matinyani Ward",
+         "Kwamutonga/kithumula Ward"
+      ],
+      "Mwingi Central Sub- County": [
+         "Central Ward",
+         "Kivou Ward",
+         "Nguni Ward",
+         "Nuu Ward",
+         "Mui Ward",
+         "Waita Ward"
+      ],
+      "Mwingi North Sub County": [
+         "Mumoni Ward",
+         "Tseikuru Ward",
+         "Tharaka Ward",
+         "Ngomeni Ward",
+         "Kyuso Ward"
+      ],
+      "Mwingi West Sub County": [
+         "Kyome/thaana Ward",
+         "Nguutani Ward",
+         "Migwani Ward",
+         "Kiomo/kyethani Ward"
+      ]
+   },
+   "Kakamega": {
+      "Butere Sub County": [
+         "Marama West Ward",
+         "Marama Central Ward",
+         "Marenyo-shianda Ward",
+         "Marama North Ward",
+         "Marama South Ward"
+      ],
+      "Ikolomani Sub County": [
+         "Idakho South Ward",
+         "Idakho East Ward",
+         "Idakho North Ward",
+         "Idakho Central Ward"
+      ],
+      "Khwisero Sub County": [
+         "Kisa North Ward",
+         "Kisa East Ward",
+         "Kisa West Ward",
+         "Kisa Central Ward"
+      ],
+      "Likuyani Sub County": [
+         "Likuyani Ward",
+         "Sango Ward",
+         "Kongoni Ward",
+         "Nzoia Ward",
+         "Sinoko Ward"
+      ],
+      "Lugari Sub County": [
+         "Mautuma Ward",
+         "Lugari Ward",
+         "Lumakanda Ward",
+         "Chekalini Ward",
+         "Chevaywa Ward",
+         "Lwandeti Ward"
+      ],
+      "Lurambi Sub County": [
+         "Butsotso East Ward",
+         "Butsotso South  Ward",
+         "Butsotso Central Ward",
+         "Sheywe Ward",
+         "Mahiakalo Ward",
+         "Shirere Ward"
+      ],
+      "Malava Sub County": [
+         "West Kabras Ward",
+         "Chemuche Ward",
+         "East Kabras Ward",
+         "Butali Chegulo Ward",
+         "Manda-shivanga Ward",
+         "Shirungu-mugai Ward",
+         "South Kabras Ward"
+      ],
+      "Matungu Sub County": [
+         "Koyonzo Ward",
+         "Kholera Ward",
+         "Khalaba Ward",
+         "Mayoni Ward",
+         "Namamali Ward"
+      ],
+      "Mumias East Sub County": [
+         "Lusheya Lubinu Ward",
+         "Malaha Isongo Makunga Ward",
+         "East Wanga Ward"
+      ],
+      "Mumias West  Sub County": [
+         "Mumias Central Ward",
+         "Mumias North Ward",
+         "Etenje Ward",
+         "Musanda Ward"
+      ],
+      "Navakholo Sub County": [
+         "Ingoste-matiha Ward",
+         "Shinoyi-shikomari-esumeiya Ward",
+         "Bunyala West Ward",
+         "Bunyala East Ward",
+         "Bunyala Central Ward"
+      ],
+      "Shinyalu Sub County": [
+         "Isukha North Ward",
+         "Murhanda Ward",
+         "Isukha Central Ward",
+         "Isukha South Ward",
+         "Isukha East Ward",
+         "Isukha West Ward"
+      ]
+   },
+   "Kiambu": {
+      "Gatundu North Sub County": [
+         "Gituamba Ward",
+         "Githobokoni Ward",
+         "Chania Ward",
+         "Mang'u Ward"
+      ],
+      "Gatundu South Sub County": [
+         "Kiamwangi Ward",
+         "Kiganjo Ward",
+         "Ndarugu Ward",
+         "Ngenda Ward"
+      ],
+      "Githunguri Sub County": [
+         "Githiga Ward",
+         "Ikinu Ward",
+         "Ngewa Ward",
+         "Komothai Ward",
+         "Githunguri Ward"
+      ],
+      "Juja Sub County": [
+         "Murera Ward",
+         "Theta Ward",
+         "Juja Ward",
+         "Witeithie Ward",
+         "Kalimoni Ward"
+      ],
+      "Kabete Sub County": [
+         "Gitaru",
+         "Muguga",
+         "Nyadhuna Ward",
+         "Kabete Ward",
+         "Uthiru Ward"
+      ],
+      "Kiambaa Sub County": [
+         "Cianda Ward",
+         "Karuri Ward",
+         "Ndenderu Ward",
+         "Muchatha Ward",
+         "Kihara Ward"
+      ],
+      "Kiambu Town Sub County": [
+         "Ting'ang'a Ward",
+         "Ndumberi Ward",
+         "Riabai Ward",
+         "Kiambu Township Ward"
+      ],
+      "Kikuyu Sub County": [
+         "Karai",
+         "Nachu Ward",
+         "Sigona Ward",
+         "Kikuyu Ward",
+         "Kinoo"
+      ],
+      "Lari Sub County": [
+         "Kinale Ward",
+         "Nyanduma Ward",
+         "Kamburu Ward",
+         "Lari/kirenga Ward",
+         "Kijabe Ward"
+      ],
+      "Limuru Sub County": [
+         "Bibirioni Ward",
+         "Limuru Central Ward",
+         "Ndeiya Ward",
+         "Limuru East Ward",
+         "Ngecha Tigoni Ward"
+      ],
+      "Ruiru Sub County": [
+         "Gitothua",
+         "Gatongora Ward",
+         "Kahawa Wendani Ward",
+         "Biashara Ward",
+         "Kahawa/sukari Ward",
+         "Kiuu Ward",
+         "Mwiki Ward",
+         "Mwihoko Ward"
+      ],
+      "Thika Town Sub County": [
+         "Thika Township Ward",
+         "Kamenu Ward",
+         "Hospital Ward",
+         "Gatuanyaga Ward",
+         "Ngoliba Ward"
+      ]
+   },
+   "Kilifi": {
+      "Ganze Sub County": [
+         "Bamba Ward",
+         "Jaribuni Ward",
+         "Ganze Ward",
+         "Sokoke Ward"
+      ],
+      "Kaloleni Sub County": [
+         "Mariakani Ward",
+         "Kayafungo Ward",
+         "Kaloleni Ward",
+         "Mwanamwinga Ward"
+      ],
+      "Kilifi North Sub County": [
+         "Mnarani Ward",
+         "Sokoni Ward",
+         "Dabaso Ward",
+         "Watamu Ward",
+         "Kibarani Ward",
+         "Matsangoni Ward",
+         "Tezo Ward"
+      ],
+      "Kilifi South Sub County": [
+         "Junju Ward",
+         "Mwarakaya Ward",
+         "Chasimba Ward",
+         "Mtepeni Ward",
+         "Shimo La Tewa Ward"
+      ],
+      "Magarini Sub County": [
+         "Marafa Ward",
+         "Magarini Ward",
+         "Gongoni Ward",
+         "Adu Ward",
+         "Garashi Ward",
+         "Sabaki Ward"
+      ],
+      "Malindi Sub County": [
+         "Jilore Ward",
+         "Kakuyuni Ward",
+         "Shella Ward",
+         "Ganda Ward",
+         "Malindi Town Ward"
+      ],
+      "Rabai Sub County": [
+         "Mwawesa Ward",
+         "Rurumaward",
+         "Kambe/ribe Ward",
+         "Rabai/kisurutini Ward"
+      ]
+   },
+   "Kisii": {
+      "Bobasi Sub County": [
+         "Masige West Ward",
+         "Masige East Ward",
+         "Basi Central Ward",
+         "Nyacheki Ward",
+         "Bassi Bogetaorio Ward",
+         "Bobasi Chache Ward",
+         "Sameta Mokwerero Ward",
+         "Bobasi Boitangare Ward"
+      ],
+      "Bomachoge Borabu Sub County": [
+         "BOMBABA BORABU",
+         "Bokimonge Ward",
+         "Magenche Ward",
+         "BOOCHI BORABU"
+      ],
+      "Bomachoge Chache Sub County": [
+         "Majoge Basi Ward",
+         "Boochi Tendere Ward",
+         "Bosoti Sengera Ward"
+      ],
+      "Bonchari  Sub County": [
+         "Bomariba Ward",
+         "Bogiakumu Ward",
+         "Bomorenda Ward",
+         "Riana Ward"
+      ],
+      "Kitutu Chache North Sub County": [
+         "Sensi Ward",
+         "Monyerero Ward",
+         "Marani Ward",
+         "Kegogi Ward"
+      ],
+      "Kitutu Chache South Sub County": [
+         "Nyakoe Ward",
+         "Kisii Central Ward",
+         "Bogusero Ward",
+         "Bogeka Ward",
+         "Nyatieko Ward"
+      ],
+      "Nyaribari Chache  Sub County": [
+         "Bobaracho Ward",
+         "Kisii Central Ward",
+         "Keumbu Ward",
+         "Kiogoro Ward",
+         "Birongo Ward",
+         "Ibeno Ward"
+      ],
+      "Nyaribari Masaba Sub County": [
+         "Ichuni Ward",
+         "Nyamasibi Ward",
+         "Masimba Ward",
+         "Gesusu Ward",
+         "Kiamokama Ward"
+      ],
+      "South Mugirango Sub County": [
+         "Tabaka Ward",
+         "Boikanga Ward",
+         "Bogetenga Ward",
+         "Borabu Chitago Ward",
+         "Moticho Ward",
+         "Getenga Ward"
+      ]
+   },
+   "Kisumu": {
+      "Kisumu Central Sub County": [
+         "Shauri Moyo Kaloleni Ward",
+         "Market Milimani Ward",
+         "Kondele Ward",
+         "Nyalenda B Ward",
+         "Railways Ward",
+         "Migosi Ward"
+      ],
+      "Kisumu East Sub County": [
+         "Manyatta B Ward",
+         "Nyalenda A Ward",
+         "Kajulu Ward",
+         "Kolwa East Ward",
+         "Kolwa Central Ward"
+      ],
+      "Kisumu West Sub County": [
+         "South West Kisumu Ward",
+         "Central Kisumu Ward",
+         "North Kisumu Ward",
+         "West Kisumu Ward",
+         "North West Kisumu Ward"
+      ],
+      "Muhoroni Sub County": [
+         "Miwani Ward",
+         "Ombeyi Ward",
+         "Masogo/nyang'oma Ward",
+         "Chemelil Ward",
+         "Muhoroni Koru Ward"
+      ],
+      "Nyakach Sub County": [
+         "South West Nyakach Ward",
+         "North Nyakach Ward",
+         "Central Nyakach Ward",
+         "West Nyakach Ward",
+         "South East Nyakach Ward"
+      ],
+      "Nyando Sub County": [
+         "East Kano/wawidhi Ward",
+         "Kabonyo Kanyagwal",
+         "Kobura Ward",
+         "Awasi/onjiko Ward",
+         "Ahero Ward"
+      ],
+      "Seme Sub County": [
+         "West Seme Ward",
+         "Central Seme Ward",
+         "East Seme Ward",
+         "North Seme Ward"
+      ]
+   },
+   "Kwale": {
+      "Kinango Sub County": [
+         "Ndavaya Ward",
+         "Puma Ward",
+         "Kinango Ward",
+         "Mackinon Road Ward",
+         "Chengoni/samburu Ward",
+         "Mwavumbo Ward",
+         "Kasemeni Ward"
+      ],
+      "Lunga Lunga Sub County": [
+         "Pongwe Kikoneni Ward",
+         "Dzombo Ward",
+         "Mwereni Ward",
+         "Vanga Ward"
+      ],
+      "Matuga Sub County": [
+         "Tsimba Golini Ward",
+         "Waa Ngombeni Ward",
+         "Tiwi Ward",
+         "Kubo South Ward",
+         "Mkongani Ward"
+      ],
+      "Msambweni Sub County": [
+         "Ukunda Ward",
+         "Kinondo Ward",
+         "Ramisi Ward",
+         "Gombato Bongwe Ward"
+      ]
+   },
+   "LAIKIPIA": {
+      "Laikipia East Sub County": [
+         "Ngobit Ward",
+         "Tigithi Ward",
+         "Thingithu Ward",
+         "Nanyuki Ward",
+         "Umande Ward"
+      ],
+      "Laikipia North Sub County": [
+         "Sosian Ward",
+         "Segera Ward",
+         "Mugogodo West Ward",
+         "Mugogodo East Ward"
+      ],
+      "Laikipia West Sub County": [
+         "Marmanet Ward",
+         "Igwamiti Ward",
+         "Salama Ward",
+         "Ol-Moran Ward",
+         "Rumuruti Township Ward",
+         "Githiga Ward"
+      ]
+   },
+   "LAMU": {
+      "LAMU EAST": [
+         "FAZA",
+         "KIUNGA",
+         "BASUBA"
+      ],
+      "LAMU WEST": [
+         "SHELLA",
+         "MKOMAMI",
+         "HINDI",
+         "HONGWE",
+         "MKUNUMBI",
+         "BAHARI",
+         "WITU"
+      ]
+   },
+   "MAKUENI": {
+      "Kaiti  Sub County": [
+         "Ukia ward",
+         "Kee ward",
+         "Kilungu ward",
+         "Ilima ward"
+      ],
+      "Kibwezi East  Sub County": [
+         "Masongaleni Ward",
+         "Mtito Andei Ward",
+         "Thange Ward",
+         "Ivingoni/Nzambani Ward"
+      ],
+      "Kibwezi West  Sub County": [
+         "Makindu Ward",
+         "Nguumo Ward",
+         "Kikumbulyu North Ward",
+         "Kikumbulyu South Ward",
+         "Nguu/Masumba Ward",
+         "Emali/Mulala Ward"
+      ],
+      "Kilome Sub County": [
+         "Kasikeu Ward",
+         "Mukaa Ward",
+         "Kiima Kiu/Kalanzoni Ward"
+      ],
+      "Makueni  Sub County": [
+         "Wote Ward",
+         "Muvau/Kikumini Ward",
+         "Mavindini Ward",
+         "Kitise/Kithuki Ward",
+         "Kathonzweni Ward",
+         "Nzaui/Kilili/Kalamba Ward",
+         "Mbitini Ward"
+      ],
+      "Mbooni  Sub County": [
+         "Tulimani Ward",
+         "Mbooni Ward",
+         "Kithungo/Kitundu Ward",
+         "Kiteta-Kisau Ward",
+         "Waia/Kako Ward",
+         "Kalawa/ Kathulumbi Ward"
+      ]
+   },
+   "MANDERA": {
+      "BANISSA": [
+         "BANISSA",
+         "DERKHALE",
+         "GUBA",
+         "MALKAMARI",
+         "KILIWAHERI"
+      ],
+      "LAFEY": [
+         "LIBEHIA",
+         "FINO",
+         "LAFEY",
+         "WARANKARA",
+         "ALANGO GOF"
+      ],
+      "MANDERA EAST": [
+         "ARABIA",
+         "BULLA MPYA",
+         "KHALALIO",
+         "NEBOI",
+         "TOWNSHIP"
+      ],
+      "MANDERA NORTH": [
+         "MAROTHILE",
+         "RHAMU",
+         "RHAMU DIMTU",
+         "ASHABITO",
+         "GUTICHA"
+      ],
+      "MANDERA SOUTH": [
+         "KOTULO",
+         "ELWAK SOUTH",
+         "SHAMBIR FATUMA",
+         "WARGADUD",
+         "ELWAK NORTH"
+      ],
+      "MANDERA WEST": [
+         "TAKABA SOUTH",
+         "TAKABA",
+         "LAGHSURE",
+         "DANDU",
+         "GITHER"
+      ]
+   },
+   "MARSABIT": {
+      "LAISAMIS": [
+         "LAISAMIS",
+         "LOIYANGALANI",
+         "KARGI/SOUTH HORR",
+         "KORR/NGURUNIT",
+         "LOGOLOGO"
+      ],
+      "MOYALE": [
+         "BUTIYE",
+         "SOLOLO",
+         "HEILLU/MANYATTA",
+         "GOLBO",
+         "MOYALE TOWNSHIP",
+         "URAN",
+         "OBBU"
+      ],
+      "NORTH HORR": [
+         "NORTH HORR",
+         "ILLERET",
+         "DUKANA",
+         "MAIKONA",
+         "TURBI"
+      ],
+      "SAKU": [
+         "SAGANTE/JALDESA",
+         "KARARE",
+         "MARSABIT CENTRAL"
+      ]
+   },
+   "MERU": {
+      "Buuri Sub County": [
+         "Timau Ward",
+         "Kisima Ward",
+         "Kiirua Naari Ward",
+         "Ruiru Rwawera Ward",
+         "Kibirichia Ward"
+      ],
+      "Igembe Central Sub County": [
+         "Akirang'ondu Ward",
+         "Athiru ruujine Ward",
+         "Kiengu/Igembe East ward",
+         "Njia Ward",
+         "Kangeta Ward"
+      ],
+      "Igembe North Sub County": [
+         "Antuambui Ward",
+         "Ntunene Ward",
+         "Antubetwe kiongo Ward",
+         "Naathu Ward",
+         "Amwathi Ward"
+      ],
+      "Igembe South Sub County": [
+         "Maua Ward",
+         "Kiegoi/antubochiu Ward",
+         "Athiru gaiti Ward",
+         "Akachiu Ward",
+         "Kanuni Ward"
+      ],
+      "Imenti Central Sub County": [
+         "Mwangathia Ward",
+         "Abothuguchi central Ward",
+         "Abothuguchi west Ward",
+         "Kiagu Ward"
+      ],
+      "Imenti North Sub County": [
+         "Municipality Ward",
+         "Ntima east Ward",
+         "Ntima west Ward",
+         "Nyaki west Ward",
+         "Nyaki east Ward"
+      ],
+      "Imenti South Sub County": [
+         "Mitunguu Ward",
+         "Igoji east Ward",
+         "Igoji west Ward",
+         "Abogeta east Ward",
+         "Abogeta west Ward",
+         "Nkuene Ward"
+      ],
+      "Tigania East Sub County": [
+         "Thangatha Ward",
+         "Mikinduri Ward",
+         "Kiguchwa Ward",
+         "Muthara Ward",
+         "Karama Ward"
+      ],
+      "Tigania West Sub County": [
+         "Athwana Ward",
+         "Akithii Ward",
+         "Kianjai Ward",
+         "Nkomo Ward",
+         "Mbeu Ward"
+      ]
+   },
+   "Machakos": {
+      "Athi River Sub County": [
+         "Mathatani Ward",
+         "Syokimau-mulolongo Ward",
+         "Athi River Ward",
+         "Kinanie Ward"
+      ],
+      "Kangundo Sub County": [
+         "Kangundo North Ward",
+         "Kangundo Central Ward",
+         "Kangundo East Ward",
+         "Kangundo West Ward"
+      ],
+      "Kathiani Sub County": [
+         "Mitamboni Ward",
+         "Kathiani Central Ward",
+         "Upper Kaewa-iveti Ward",
+         "Lower Kaewa-kaani Ward"
+      ],
+      "Machakos Sub County": [
+         "Kalama Ward",
+         "Mua Ward",
+         "Mutituni Ward",
+         "Township Ward",
+         "Mumbuni North Ward",
+         "Muvuti-kiima-kimwe Ward",
+         "Kola Ward"
+      ],
+      "Masinga Sub County": [
+         "Kivaa Ward",
+         "Masinga Central Ward",
+         "Ekalakala Ward",
+         "Muthesya Ward",
+         "Mananja Ward"
+      ],
+      "Matungulu Sub County": [
+         "Tala Ward",
+         "Matungulu North Ward",
+         "Matungulu East Ward",
+         "Matungulu West Ward",
+         "Kyeleni Ward"
+      ],
+      "Mwala Sub County": [
+         "Mbiuni Ward",
+         "Makutano-mwala Ward",
+         "Masii Ward",
+         "Muthetheni Ward",
+         "Wamunyu Ward",
+         "Kibauni Ward"
+      ],
+      "Yatta Sub County": [
+         "Ndalani Ward",
+         "Matuu Ward",
+         "Kithimani Ward",
+         "Ikombe Ward",
+         "Katangi Ward"
+      ]
+   },
+   "Migori": {
+      "Awendo Sub County": [
+         "North Sakwa Ward",
+         "South Sakwa Ward",
+         "West Sakwa Ward",
+         "Central Sakwa Ward"
+      ],
+      "Kuria East Sub County": [
+         "Ntimaru West Ward",
+         "Gokeharaka/getambwega Ward",
+         "Ntimaru East Ward",
+         "Nyabasi East Ward",
+         "Nyabasi West Ward"
+      ],
+      "Kuria West Sub County": [
+         "Masaba Ward",
+         "Bukira East Ward",
+         "Bukira Central/ikerege Ward",
+         "Isibania Ward",
+         "Mokerero Ward",
+         "Tagare Ward",
+         "Nyamosense/komosoko Ward"
+      ],
+      "Nyatike Sub County": [
+         "Kachieng' Ward",
+         "Kanyasa Ward",
+         "North Kadem Ward",
+         "Macalder/kanyarwanda Ward",
+         "Kaler Ward",
+         "Got Kachola Ward",
+         "Muhuru Ward"
+      ],
+      "Rongo Sub County": [
+         "North Kamagambo Ward",
+         "Central Kamagambo Ward",
+         "South Kamagambo Ward",
+         "East Kamagambo Ward"
+      ],
+      "Suna East Sub County": [
+         "God Jope  Ward",
+         "Suna Central Ward",
+         "Kakrao Ward",
+         "Kwa Ward"
+      ],
+      "Suna West Sub County": [
+         "Wiga Ward",
+         "Waseweta Ii Ward",
+         "Ragana-oruba Ward",
+         "Wasimbete Ward"
+      ],
+      "Uriri Sub County": [
+         "West Kanyamkago Ward",
+         "North  Kanyamkago Ward",
+         "Central Kanyamkago Ward",
+         "South Kanyamkago Ward",
+         "East Kanyamkago Ward"
+      ]
+   },
+   "Mombasa": {
+      "Changamwe Sub County": [
+         "Kipevu Ward",
+         "Airport Ward",
+         "Changamwe Ward",
+         "Chaani Ward",
+         "Port Reitz Ward"
+      ],
+      "Jomvu  Sub County": [
+         "Jomvu Kuu Ward",
+         "Miritini Ward",
+         "Mikindani Ward"
+      ],
+      "Kisauni  Sub County": [
+         "Mjambere Ward",
+         "Magogoni Ward",
+         "Junda Ward",
+         "Bamburi Ward",
+         "Mwakirunge Ward",
+         "Mtopanga Ward",
+         "Shanzu Ward"
+      ],
+      "Likoni  Sub County": [
+         "Shika Adabu Ward",
+         "Mtongwe Ward",
+         "Bofu Ward",
+         "Likoni Ward",
+         "Timbwani Ward"
+      ],
+      "Mvita  Sub County": [
+         "Tudor Ward",
+         "Makadara Ward-mji Wa Kale Ward",
+         "Tononoka Ward",
+         "Ganjoni Ward-shimanzi Ward",
+         "Majengo Ward"
+      ],
+      "Nyali  Sub County": [
+         "Frere Town Ward",
+         "Kongowea Ward",
+         "Kadzandani Ward",
+         "Ziwa La Ng'ombe Ward",
+         "Mkomani Ward"
+      ]
+   },
+   "Muranga": {
+      "Gatanga Sub County": [
+         "Ithanga Ward",
+         "Kakuzi/mitubiri Ward",
+         "Mugumo-ini Ward",
+         "Kihumbu-ini Ward",
+         "Gatanga Ward",
+         "Kariara Ward"
+      ],
+      "Kandara Sub County": [
+         "Ng'araria Ward",
+         "Muruka Ward",
+         "Kagundu-ini Ward",
+         "Gaichanjiru Ward",
+         "Ithiru Ward",
+         "Ruchu Ward"
+      ],
+      "Kangema Sub County": [
+         "Kanyenya-ini Ward",
+         "Muguru Ward",
+         "Rwathia Ward"
+      ],
+      "Kigumo Sub County": [
+         "Kahumbu Ward",
+         "Muthithi Ward",
+         "Kigumo Ward",
+         "Kangari Ward",
+         "Kinyona Ward"
+      ],
+      "Kiharu Sub County": [
+         "Wangu Ward",
+         "Mugoiri Ward",
+         "Mbiri Ward",
+         "Township Ward",
+         "Murarandia Ward",
+         "Gaturi Ward"
+      ],
+      "Mathioya Sub County": [
+         "Kiru Ward",
+         "Kamacharia Ward",
+         "Gitugi Ward"
+      ],
+      "Muranga South Sub County": [
+         "Kimorori/wempa Ward",
+         "Makuyu Ward",
+         "Kambiti Ward",
+         "Kamahuhu Ward",
+         "Ichagaki Ward",
+         "Nginda Ward"
+      ]
+   },
+   "NANDI": {
+      "Aldai Sub County": [
+         "Kemeloi-maraba Ward",
+         "Kobujoi Ward",
+         "Kaptumo/kaboi Ward",
+         "Koyo/ndurio Ward",
+         "Kabwareng Ward",
+         "Terik Ward"
+      ],
+      "Chesumei Sub County": [
+         "Lelmoko/ngechek Ward",
+         "Chemundu/kapng'etunyi Ward",
+         "Kosirai Ward",
+         "Kaptel/kamoiywo Ward",
+         "Kiptuiya Ward"
+      ],
+      "Emgwen Sub County": [
+         "Chepkumia Ward",
+         "Kapsabet Ward",
+         "Kilibwoni Ward",
+         "Kapkangani Ward"
+      ],
+      "Mosop Sub County": [
+         "Ndalat Ward",
+         "Sangalo/kebulonik Ward",
+         "Chepterwai Ward",
+         "Kipkaren Ward",
+         "Kurgung/surungai Ward",
+         "Kabiyet Ward",
+         "Kabisaga Ward"
+      ],
+      "Nandi East Sub County": [
+         "Nandi hills Ward",
+         "Chepkunyuk Ward",
+         "Kapsimotwo Ward",
+         "Ol'lessos Ward",
+         "Kapchorua Ward"
+      ],
+      "Tinderet Sub County": [
+         "Songhor/Soba Ward",
+         "Tinderet Ward",
+         "Chemelil/chemase Ward"
+      ]
+   },
+   "NYANDARUA": {
+      "Kinangop Sub County": [
+         "Engineer Ward",
+         "Gathara Ward",
+         "North kinangop Ward",
+         "Murungaru Ward",
+         "Njabani/kiburu Ward",
+         "Nyakio Ward",
+         "Githabai Ward",
+         "Magumu Ward"
+      ],
+      "Kipipiri Sub County": [
+         "Githioro Ward",
+         "Wanjohi Ward",
+         "Kipipiri Ward",
+         "Geta Ward"
+      ],
+      "Ndaragwa Sub County": [
+         "Leshau/pondo Ward",
+         "Kiritta Ward",
+         "Central Ward",
+         "Shamata Ward"
+      ],
+      "Oljoroorok Sub County": [
+         "Charagita Ward",
+         "Gathanji Ward",
+         "Gatimu Ward",
+         "Weru Ward"
+      ],
+      "Olkalou Sub County": [
+         "Kanjuiri range Ward",
+         "Rurii Ward",
+         "Karau Ward",
+         "Mirangine Ward",
+         "Kaimbaga Ward"
+      ]
+   },
+   "NYERI": {
+      "Kieni East Sub County": [
+         "Naromoru/kiamathaga Ward",
+         "Thegu river Ward",
+         "Kabaru Ward",
+         "Gakawa Ward"
+      ],
+      "Kieni West Sub County": [
+         "Mweiga Ward",
+         "Mwiyogo/endarasha Ward",
+         "Mugunda Ward",
+         "Gatarakwa Ward"
+      ],
+      "Mathira East Sub County": [
+         "Karatina town Ward",
+         "Iriaini Ward",
+         "Konyu Ward",
+         "Magutu Ward"
+      ],
+      "Mathira West Sub County": [
+         "Kirimukuyu Ward",
+         "Ruguru Ward"
+      ],
+      "Mukurweini Sub County": [
+         "Gikondi Ward",
+         "Rugi Ward",
+         "Mukurwe-ini west Ward",
+         "Mukurwe-ini central Ward"
+      ],
+      "Nyeri Central Sub County": [
+         "Kiganjo/mathari Ward",
+         "Rware Ward",
+         "Gatitu/muruguru Ward",
+         "RURING'U / Karia Ward",
+         "Kamakwa/mukaro Ward"
+      ],
+      "Nyeri South Sub County": [
+         "Iria-ini Ward",
+         "Chinga Ward",
+         "Karima Ward",
+         "Mahiga Ward"
+      ],
+      "Tetu Sub County": [
+         "Dedan kimathi Ward",
+         "Wamagana Ward",
+         "Aguthi-gaaki Ward"
+      ]
+   },
+   "Nairobi": {
+      "Dagoretti North Sub County": [
+         "Kilimani Ward",
+         "Kileleshwa Ward",
+         "Kawangware Ward",
+         "Kabiro Ward",
+         "Gatina Ward"
+      ],
+      "Dagoretti South Sub County": [
+         "Mutu-ini Ward",
+         "Ngando Ward",
+         "Riruta Ward",
+         "Uthiru/ruthimitu Ward",
+         "Waithaka Ward"
+      ],
+      "Embakasi Central Sub County": [
+         "Kayole North Ward",
+         "Kayole Central Ward",
+         "Kayole South Ward",
+         "Komarock Ward",
+         "Matopeni/spring Valley Ward"
+      ],
+      "Embakasi East Sub County": [
+         "Lower Savanna Ward",
+         "Embakasi Ward",
+         "Utawala Ward",
+         "Mihango Ward",
+         "Upper Savanna Ward"
+      ],
+      "Embakasi North Sub County": [
+         "Dandora Area Iv Ward",
+         "Kariobangi North Ward",
+         "Dandora Area I Ward",
+         "Dandora Area Ii Ward",
+         "Dandora Area Iii Ward"
+      ],
+      "Embakasi South Sub County": [
+         "Imara Daima Ward",
+         "Pipeline Ward",
+         "Kwa Njenga Ward",
+         "Kwa Reuben Ward",
+         "Kware Ward"
+      ],
+      "Embakasi West Sub County": [
+         "Umoja I Ward",
+         "Umoja Ii Ward",
+         "Mowlem Ward",
+         "Kariobangi South Ward"
+      ],
+      "Kamukunji  Sub County": [
+         "Eastleigh South Ward",
+         "Eastleigh North Ward",
+         "California Ward",
+         "Pumwani Ward",
+         "Airbase Ward"
+      ],
+      "Kasarani  Sub County": [
+         "Mwiki Ward",
+         "Kasarani Ward",
+         "Clay City",
+         "Njiru Ward",
+         "Ruai Ward"
+      ],
+      "Kibra  Sub County": [
+         "Woodley/kenyatta Golf Course Ward",
+         "Laini Saba Ward",
+         "Lindi Ward",
+         "Makina Ward",
+         "Sarang'ombe Ward"
+      ],
+      "Langata  Sub County": [
+         "Karen Ward",
+         "Nairobi West Ward",
+         "Mugumo-ini Ward",
+         "South C Ward",
+         "Nyayo Highrise Ward"
+      ],
+      "Makadara  Sub County": [
+         "Viwandani Ward",
+         "Harambee Ward",
+         "Makongeni Ward",
+         "Maringo/hamza Ward"
+      ],
+      "Mathare  Sub County": [
+         "Huruma Ward",
+         "Hospital Ward",
+         "Mabatini Ward",
+         "Ngei Ward",
+         "Mlango Kubwa",
+         "Kiamaiko Ward"
+      ],
+      "Roysambu  Sub County": [
+         "Zimmerman Ward",
+         "Roysambu Ward",
+         "Githurai Ward",
+         "Kahawa West",
+         "Kahawa"
+      ],
+      "Ruaraka  Sub County": [
+         "Mathare North Ward",
+         "Lucky Summer Ward",
+         "Korogocho Ward",
+         "Babandogo",
+         "Utalii Ward"
+      ],
+      "Starehe  Sub County": [
+         "Landimawe Ward",
+         "Nairobi South Ward",
+         "Nairobi Central Ward",
+         "Ngara Ward Ward",
+         "Pangani Ward",
+         "Ziwani/kariokor"
+      ],
+      "Westlands  Sub County": [
+         "Parklands/highridge Ward",
+         "Karura Ward",
+         "Kangemi Ward",
+         "Mountain View Ward",
+         "Kitisuru Ward"
+      ]
+   },
+   "Nakuru": {
+      "Gilgil Sub County": [
+         "Gilgil Ward",
+         "Elementaita Ward",
+         "Mbaruk/eburu Ward",
+         "Malewa West Ward",
+         "Murindat Ward"
+      ],
+      "Kuresoi North  Sub County": [
+         "Kiptororo Ward",
+         "Nyota Ward",
+         "Sirikwa Ward",
+         "Kamara Ward"
+      ],
+      "Kuresoi South  Sub County": [
+         "Amalo Ward",
+         "Keringet Ward",
+         "Kiptagich Ward",
+         "Tinet Ward"
+      ],
+      "Molo  Sub County": [
+         "Elburgon Ward",
+         "Mariashoni Ward",
+         "Turi Ward",
+         "Molo Ward"
+      ],
+      "Naivasha  Sub County": [
+         "Biashara Ward",
+         "Hells Gate Ward",
+         "Lake View Ward",
+         "Mai Mahiu Ward",
+         "Maeilla Ward",
+         "Olkaria Ward",
+         "Naivasha East Ward",
+         "Viwandani Ward"
+      ],
+      "Nakuru East  Sub County": [
+         "Biashara Ward",
+         "Kivumbini Ward",
+         "Flamingo Ward",
+         "Menengai Ward",
+         "Nakuru East Ward"
+      ],
+      "Nakuru North  Sub County": [
+         "Dundori Ward",
+         "Kabatini Ward",
+         "Kiamaina Ward",
+         "Lanet/umoja Ward",
+         "Bahati Ward"
+      ],
+      "Nakuru West  Sub County": [
+         "Kaptembwo Ward",
+         "Kapkures Ward",
+         "Rhoda Ward",
+         "Shaabab Ward",
+         "Barut Ward",
+         "London Ward"
+      ],
+      "Njoro  Sub County": [
+         "Njoro Ward",
+         "Mau Narok Ward",
+         "Mauche Ward",
+         "Kihingo Ward",
+         "Nessuit Ward",
+         "Lare Ward"
+      ],
+      "Rongai  Sub County": [
+         "Menengai West Ward",
+         "Visoi Ward",
+         "Soin Ward",
+         "Mosop Ward",
+         "Solai Ward"
+      ],
+      "Subukia  Sub County": [
+         "Subukia Ward",
+         "Waseges Ward",
+         "Kabazi Ward"
+      ]
+   },
+   "Narok": {
+      "Narok East Sub County": [
+         "Mosiro Ward",
+         "Ildamat Ward",
+         "Keekonyokie Ward",
+         "Suswa Ward"
+      ],
+      "Narok North Sub County": [
+         "Olorropil Ward",
+         "Melili Ward",
+         "Olposimoru Ward",
+         "Olokurto Ward",
+         "Narok Town Ward",
+         "Nkareta Ward"
+      ],
+      "Narok South Sub County": [
+         "Maji Moto/naroosura Ward",
+         "Ololulung'a Ward",
+         "Melelo Ward",
+         "Loita Ward",
+         "Sogoo Ward",
+         "Sagamian Ward"
+      ],
+      "Narok West Sub County": [
+         "Ilmotiook Ward",
+         "Mara Ward",
+         "Siana Ward",
+         "Naikarra Ward"
+      ],
+      "Transmara East Sub County": [
+         "Iikerin Ward",
+         "Ololmasani Ward",
+         "Mogondo Ward",
+         "Kapsasian Ward"
+      ],
+      "Transmara West Sub County": [
+         "Kilgoris Central  Ward",
+         "Keyian Ward",
+         "Angata Barikoi Ward",
+         "Shankoe Ward",
+         "Kimintet Ward",
+         "Lolgorian Ward"
+      ]
+   },
+   "Nyamira": {
+      "Borabu Sub County": [
+         "Mekenene Ward",
+         "Kiabonyoru Ward",
+         "Nyansiongo Ward",
+         "Esise Ward"
+      ],
+      "Manga Sub County": [
+         "Kamera Ward",
+         "Magombo Ward",
+         "Manga Ward"
+      ],
+      "Masaba North Sub County": [
+         "Rigoma Ward",
+         "Gachuba Ward",
+         "Gesima Ward"
+      ],
+      "Nyamira North Sub County": [
+         "Itibo Ward",
+         "Bomwagamo Ward",
+         "Bokeira Ward",
+         "Magwagwa Ward",
+         "Ekerenyo Ward"
+      ],
+      "Nyamira Sub County": [
+         "Nyamaiya Ward",
+         "Bogichora Ward",
+         "Bosamaro Ward",
+         "Bonyamatuta Ward",
+         "Township Ward"
+      ]
+   },
+   "SAMBURU": {
+      "Samburu Central Sub County": [
+         "Maralal Ward",
+         "Loosuk Ward",
+         "Porro Ward",
+         "Angata nayokie Ward",
+         "Baawa Ward",
+         "Suguta Marmar Ward",
+         "Lodokejek Ward"
+      ],
+      "Samburu East Sub County": [
+         "Waso Ward",
+         "Wamba west Ward",
+         "Wamba east Ward",
+         "Wamba north Ward"
+      ],
+      "Samburu North Sub County": [
+         "El-barta Ward",
+         "Nachola Ward",
+         "Ndoto Ward",
+         "Nyiro Ward"
+      ]
+   },
+   "Siaya": {
+      "Alego Usonga Sub County": [
+         "Usonga Ward",
+         "West Alego Ward",
+         "Central Alego Ward",
+         "Siaya Township Ward",
+         "North Alego Ward",
+         "South East Alego Ward"
+      ],
+      "Bondo Sub County": [
+         "West Yimbo Ward",
+         "Central Sakwa Ward",
+         "South Sakwa Ward",
+         "Yimbo East Ward",
+         "West Sakwa Ward",
+         "North Sakwa Ward"
+      ],
+      "Gem Sub County": [
+         "North Gem Ward",
+         "West Gem Ward",
+         "Central Gem Ward",
+         "Yala Township Ward",
+         "East Gem Ward",
+         "South Gem Ward"
+      ],
+      "Rarieda Sub County": [
+         "North Uyoma Ward",
+         "South Uyoma Ward",
+         "West Uyoma Ward",
+         "East Asembo Ward",
+         "West Asembo Ward"
+      ],
+      "Ugenya Sub County": [
+         "West Ugenya Ward",
+         "Ukwala Ward",
+         "North Ugenya Ward",
+         "East Ugenya Ward"
+      ],
+      "Ugunja Sub County": [
+         "Sidindi Ward",
+         "Sigomere Ward",
+         "Ugunja Ward"
+      ]
+   },
+   "TAITA TAVETA": {
+      "Mwatate Sub County": [
+         "Bura Ward",
+         "Ronge Ward",
+         "Mwatate Ward",
+         "Wusi/kishamba Ward",
+         "Chawia Ward"
+      ],
+      "Taveta Sub County": [
+         "Chala Ward",
+         "Mata Ward",
+         "Bomani Ward",
+         "Mboghoni Ward",
+         "Mahoo Ward"
+      ],
+      "Voi Sub County": [
+         "Kasigau Ward",
+         "Mbololo Ward",
+         "Sagala Ward",
+         "Marungu Ward",
+         "Ngolia Ward",
+         "Kaloleni  Ward"
+      ],
+      "Wundanyi Sub County": [
+         "Wundanyi/mbale Ward",
+         "Wumingu/kishushe Ward",
+         "Mwanda/mgange Ward",
+         "Werugha Ward"
+      ]
+   },
+   "TANA RIVER": {
+      "Bura Sub County": [
+         "Bangale Ward",
+         "Sala Ward",
+         "Hirimani Ward",
+         "Chewele Ward",
+         "Madogo Ward"
+      ],
+      "Galole Sub County": [
+         "Chewani Ward",
+         "Kinakomba Ward",
+         "Mikinduni Ward",
+         "Wayu Ward"
+      ],
+      "Garsen Sub County": [
+         "Kipini east Ward",
+         "Garsen south Ward",
+         "Kipini west Ward",
+         "Garsen central Ward",
+         "Garsen west Ward",
+         "Garsen north Ward"
+      ]
+   },
+   "THARAKA-NITHI": {
+      "Chuka Sub County": [
+         "Karingani Ward",
+         "Magumoni Ward",
+         "Mugwe Ward"
+      ],
+      "Igambang'ombe Sub County": [
+         "Igambang`ombe Ward",
+         "Mariani Ward"
+      ],
+      "Muthambi Sub County": [
+         "Mitheru Ward",
+         "Muthambi Ward"
+      ],
+      "Mwimbi Sub County": [
+         "Mwimbi Ward",
+         "Ganga Ward",
+         "Chogoria Ward"
+      ],
+      "Tharaka North Sub County": [
+         "Gatunga Ward",
+         "Mukothima Ward"
+      ],
+      "Tharaka South Sub County": [
+         "Nkondi Ward",
+         "Chiakagira Ward",
+         "Marimanti Ward"
+      ]
+   },
+   "TRANS NZOIA": {
+      "Cherangany Sub County": [
+         "Makutano Ward",
+         "Kaplamai Ward",
+         "Motosiet Ward",
+         "Cherangany/suwerwa Ward",
+         "Chepsiro/kiptoror Ward",
+         "Sinyerere Ward",
+         "Sitatunga Ward"
+      ],
+      "Endebess Sub County": [
+         "Chepchoina Ward",
+         "Endebess Ward",
+         "Matumbei Ward"
+      ],
+      "Kiminini  Sub County": [
+         "Kiminini Ward",
+         "Waitaluk Ward",
+         "Sirende Ward",
+         "Nabiswa Ward",
+         "Hospital Ward",
+         "Sikhendu Ward"
+      ],
+      "Kwanza  Sub County": [
+         "Kapomboi Ward",
+         "Kwanza Ward",
+         "Keiyo Ward",
+         "Bidii Ward"
+      ],
+      "Saboti  Sub County": [
+         "Kinyoro Ward",
+         "Matisi Ward",
+         "Tuwani Ward",
+         "Saboti Ward",
+         "Machewa Ward"
+      ]
+   },
+   "TURKANA": {
+      "Kibish Sub County": [
+         "Kaaleng/kaikor Ward",
+         "Kibish Ward"
+      ],
+      "Loima Sub County": [
+         "Turkwel Ward",
+         "Lokiriama/Lorengippi Ward",
+         "Kotaruk/Lobei Ward",
+         "Loima Ward"
+      ],
+      "Turkana Central Sub County": [
+         "Kerio Delta Ward",
+         "KANG'ATOTHA Ward",
+         "Kalokol Ward",
+         "Lodwar Township Ward",
+         "Kanamkemer Ward"
+      ],
+      "Turkana East Sub County": [
+         "Kapedo/napeitom Ward",
+         "Katilia Ward",
+         "Lokori/kochodin Ward"
+      ],
+      "Turkana North Sub County": [
+         "Kaeris Ward",
+         "Lakezone Ward",
+         "Lapur Ward"
+      ],
+      "Turkana South Sub County": [
+         "Kaputir Ward",
+         "Lobokat Ward",
+         "Kalapata Ward",
+         "Lokichar Ward",
+         "Katilu Ward"
+      ],
+      "Turkana West Sub County": [
+         "Nakalale Ward",
+         "Lopur Ward",
+         "Letea Ward",
+         "Songot Ward",
+         "Lokichoggio Ward",
+         "Kakuma Ward",
+         "Kalobeyei Ward",
+         "Nanaam Ward"
+      ]
+   },
+   "Uasin Gishu": {
+      "Ainabkoi Sub County": [
+         "Kapsoya Ward",
+         "Kaptagat Ward",
+         "Ainabkoi/olare Ward"
+      ],
+      "Kapseret Sub County": [
+         "Simat/ Kapseret Ward",
+         "Kipkenyo Ward",
+         "Megun Ward",
+         "Ngeria Ward",
+         "Langas Ward"
+      ],
+      "Kesses Sub County": [
+         "Racecourse Ward",
+         "Cheptiret/kipchamo Ward",
+         "Tulwet/chiyat Ward",
+         "Tarakwa Ward"
+      ],
+      "Moiben Sub County": [
+         "Tembelio Ward",
+         "Sergoit Ward",
+         "Karuna/meibeki Ward",
+         "Moiben Ward",
+         "Kimumu Ward"
+      ],
+      "Soy Sub County": [
+         "Moi's Bridge Ward",
+         "Kapkures Ward",
+         "Ziwa Ward",
+         "Soy Ward",
+         "Kuinet/kapsuswa Ward",
+         "Segeroi/barsombe Ward",
+         "Kipsomba Ward"
+      ],
+      "Turbo Sub County": [
+         "Ngenyilel Ward",
+         "Tapsagoi Ward",
+         "Kamagut Ward",
+         "Kiplombe Ward",
+         "Kapsaos Ward",
+         "Huruma Ward"
+      ]
+   },
+   "Vihiga": {
+      "Emuhaya Sub County": [
+         "North East Bunyore Ward",
+         "Central Bunyore Ward",
+         "West Bunyore Ward"
+      ],
+      "Hamisi Sub County": [
+         "Shiru Ward",
+         "Gisambai Ward",
+         "Muhudu Ward",
+         "Tambua Ward",
+         "Jepkoyai Ward",
+         "Banja Ward",
+         "Shamakhokho Ward"
+      ],
+      "Luanda Sub County": [
+         "Luanda South Ward",
+         "Luanda Township Ward",
+         "Wemilabi Ward",
+         "Mwibona Ward",
+         "Emabungo Ward"
+      ],
+      "Sabatia Sub County": [
+         "Chavakali Ward",
+         "Busali Ward",
+         "Lyaduywa/izava Ward",
+         "West Sabatia Ward",
+         "North Maragoli Ward",
+         "Wodanga Ward"
+      ],
+      "Vihiga Sub County": [
+         "South Maragoli Ward",
+         "Lugaga-wamuluma Ward",
+         "Central Maragoli Ward",
+         "Mungoma Ward"
+      ]
+   },
+   "WAJIR": {
+      "Eldas Sub County": [
+         "Elnur/tula tula Ward",
+         "Eldas Ward",
+         "Della Ward",
+         "Lakoley south/basir Ward"
+      ],
+      "Tarbaj Sub County": [
+         "Elben Ward",
+         "Sarman Ward",
+         "Tarbaj Ward",
+         "Wargadud Ward"
+      ],
+      "Wajir East Sub County": [
+         "Khorof/Harar Ward",
+         "Wagberi Ward",
+         "Township Ward",
+         "Barwaqo Ward"
+      ],
+      "Wajir North Sub County": [
+         "Malkagufu Ward",
+         "Batalu Ward",
+         "Godoma Ward",
+         "Bute Ward",
+         "Korondile Ward",
+         "Gurar Ward",
+         "Danaba Ward"
+      ],
+      "Wajir South Sub County": [
+         "Benane Ward",
+         "Burder Ward",
+         "Ibrahim ure Ward",
+         "Dadaja bulla Ward",
+         "Habasswein Ward",
+         "Lagboghoi south Ward",
+         "Diif Ward"
+      ],
+      "Wajir West Sub County": [
+         "Hadado Athibohol Ward",
+         "Arbajahan Ward",
+         "ADEMASAJIDE Ward",
+         "Ganyure Wagalla Ward"
+      ]
+   },
+   "WEST POKOT": {
+      "Pokot Central Sub County": [
+         "Sekerr Ward",
+         "Masool Ward",
+         "Lomut Ward",
+         "Wei wei Ward"
+      ],
+      "Pokot North Sub County": [
+         "Suam Ward",
+         "Kodich Ward",
+         "Kasei Ward",
+         "Kapchok Ward",
+         "Kiwawa Ward",
+         "Alale Ward"
+      ],
+      "Pokot South Sub County": [
+         "Chepareria Ward",
+         "Batei Ward",
+         "Lelan Ward",
+         "Tapach Ward"
+      ],
+      "West Pokot Sub County": [
+         "Riwo Ward",
+         "Kapenguria Ward",
+         "Mnagei Ward",
+         "Siyoi Ward",
+         "Endugh Ward",
+         "Sook Ward"
+      ]
+   }
+}

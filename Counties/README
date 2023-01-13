@@ -1,0 +1,4 @@
+JSON and CSV file that contains all the counties, their respective subcounties
+and wards in each subcounty.
+The .py file used to create the json file is not at all optimized. 
+I should have used pandas, but I wanted to test the limits of list comprehension.
