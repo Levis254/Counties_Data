@@ -1,0 +1,55 @@
+---
+title: "county_data"
+author: "Levis Matongo"
+date: "1/15/2023"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(readr) #Load readr package to access read_delim function which enables access to tabulated comma delimited file format
+library(tidyverse) #to access tidyr, dplyr and ggplot packages
+Kenyanwards <- read_delim("C:/Users/Noor/Downloads/Kenyanwards.txt")
+View(Kenyanwards)
+str(Kenyanwards)
+Kenyan_subcounties_wards<-Kenyanwards %>% select(GID,POP2009,COUNTY,SUBCOUNTY,WARD)
+head(Kenyan_subcounties_wards)
+
+```
+
+```{r}
+#save the data as xls (excel) format
+install.packages("xlsx")
+library("xlsx") #first load the xlsx library
+# Write the first data set in a new workbook
+write.xlsx(Kenyan_subcounties_wards, file = "Kenyan_subcounties_wards.xlsx",
+           sheetName = "subcounties_wards", append = FALSE)
+```
+
+
+```{r}
+#Visualize the population distribution
+#first we group the data
+county_total_population<-Kenyan_subcounties_wards %>%
+  group_by(COUNTY) %>% 
+  summarise(Total_pop_2009=sum(POP2009))  %>% 
+  mutate(Total_pop_2009_in_mil=Total_pop_2009/1000000) %>% 
+  mutate(County=str_to_title(COUNTY))
+  
+
+```
+
+
+```{r}
+#We use the ggplot package
+ggplot(county_total_population, aes(x=COUNTY, y=Total_pop_2009_in_mil))+
+  geom_col(fill="blue")+
+  coord_flip()+
+  labs(y="Total population in millions",
+       x="County",
+       title="Kenyan County Population as of 2009")
+```
+
